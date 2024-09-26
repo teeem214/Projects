@@ -1,1 +1,1 @@
-# Projects
+This Python application is a Home Loan Calculator that allows users to calculate monthly repayments and generate an amortization schedule for a loan based on user inputs such as loan amount, down payment, interest rate, and loan term.
